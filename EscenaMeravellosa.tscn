@@ -5,5 +5,5 @@
 [node name="EscenaMeravellosa" type="Node2D"]
 
 [node name="Godot" type="Sprite" parent="."]
-position = Vector2( 476, 199 )
+position = Vector2( 959, 498 )
 texture = ExtResource( 1 )
